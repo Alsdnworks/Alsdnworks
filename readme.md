@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=ALSDNWORKS&animation=fadeIn&fontColor=703ee5)
 
+## PDP, Advertisement designer🖌 , Python, C++ developer 🛠 <br> I worked as a designer, undergraduate researcher in Kangwon Univ. as developer <br> Majoring in SW&media👨‍💻 
+
 # 👨‍💻Techs What I interested in
 
 <img src="https://img.shields.io/badge/PS-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp; 
