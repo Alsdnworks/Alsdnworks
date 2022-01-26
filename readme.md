@@ -22,3 +22,6 @@
 <a>
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alsdream702" />
 </a>
+
+
+## <a href="https://alsdnworks.github.io/">Visit My Blog😆</a>
