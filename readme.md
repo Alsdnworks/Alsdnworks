@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=&gt;ALSDNWORKS&animation=blinking&fontColor=0000FF)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=&gt;ALSDNWORKS&animation=fadeIn&fontColor=0000FF)
 
-## PDP, Advertisement designer🖌 , Python, C++ developer 🛠 <br> I worked as a designer, undergraduate researcher in Kangwon Univ. as developer <br> Majoring in SW&media👨‍💻 
+## PDP, Advertisement designer🖌 , Python, C++ developer 🛠 <br> I worked as a designer and undergraduate researcher in Kangwon Univ. as developer <br> Majoring in SW&media👨‍💻 
 
 # 👨‍💻Techs What I interested in
 <table>
