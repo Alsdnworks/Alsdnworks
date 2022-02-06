@@ -1,13 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=&gt;ALSDNWORKS&animation=fadeIn&fontColor=0000FF)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=&gt;ALSDNWORKS&animation=fadeIn&fontColor=A653F5  )
 
-## PDP, Advertisement designer🖌 , Python, C++ developer 🛠 <br> I worked as a designer and undergraduate researcher in Kangwon Univ. as developer <br> Majoring in SW&media👨‍💻 
+## <span style="color:#8F8CF2">I'm PDP, Advertisement designer🖌 , Python, C++ developer 🛠; <br> I worked as a designer and undergraduate researcher in Kangwon Univ. as developer; <br> Majoring in SW&media👨‍💻; </span>
 
-# 👨‍💻Techs What I interested in
+<br>
+
+# <span style="color:#d30cb8"> 👨‍💻Techs What I Interested In; </span>
+
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/PS-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Ai-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/PS-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Ai-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></td>
@@ -17,17 +20,20 @@
   </tr>
 </table>
 
-# 👨‍💻STATS
+<br>
 
-<img align="center" width=1000 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alsdnworks&theme=monokai" />
+# <span style="color:#d30cb8"> 👨‍💻STATS; </span>
 
 <table>
-  <tr>
-    <td>
-  <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=Alsdnworks&show_icons=true&theme=synthwave" />
-  <img align="center" width=400 src="http://mazassumnida.wtf/api/generate_badge?boj=alsdream702"/>
-    </td>
-  </tr>
+    <tr><td><h2><span style="color:#FFB845">Algorithm(백준)</span></h2></td></tr>
+    <tr><td><img align="center" width=720 src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=alsdream702"/></td></tr>
+    <tr><td><h2><span style="color:#FFB845">GIT</span></h2></td></tr>
+    <tr><td><img align="center" width=720 src="https://github-readme-stats.vercel.app/api?username=Alsdnworks&show_icons=true&theme=synthwave" /></td></tr> 
 </table>
 
-# <a href="https://alsdnworks.github.io/">Visit My Blog😆</a>
+<br>
+
+# <span style="color:#d30cb8"> 👨‍💻CONTACT; </span>
+
+## <a href="https://alsdnworks.github.io/" style="color:#FFB845 ">Visit My Blog😆</a>
+
