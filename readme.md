@@ -22,18 +22,6 @@
 
 <br>
 
-# <span style="color:#d30cb8"> 👨‍💻STATS; </span>
+<img align="center" width=720 src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=alsdream702"/>
 
-<table>
-    <tr><td><h2><span style="color:#FFB845">Algorithm(백준)</span></h2></td></tr>
-    <tr><td><img align="center" width=720 src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=alsdream702"/></td></tr>
-    <tr><td><h2><span style="color:#FFB845">GIT</span></h2></td></tr>
-    <tr><td><img align="center" width=720 src="https://github-readme-stats.vercel.app/api?username=Alsdnworks&show_icons=true&theme=synthwave" /></td></tr> 
-</table>
-
-<br>
-
-# <span style="color:#d30cb8"> 👨‍💻CONTACT; </span>
-
-## <a href="https://alsdnworks.github.io/" style="color:#FFB845 ">Visit My Blog😆</a>
 
