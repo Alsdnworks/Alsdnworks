@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=&gt;ALSDNWORKS&animation=fadeIn&fontColor=A653F5  )
 
-## <span style="color:#8F8CF2">I'm PDP, Advertisement designer🖌 , Python, C++ developer 🛠; <br> I worked as a designer and undergraduate researcher in Kangwon Univ. as developer; <br> Majoring in SW&media👨‍💻; </span>
+## <span style="color:#8F8CF2">I'm gis engineer, Python, C++ developer 🛠; <br> I'm working as undergraduate researcher in Kangwon Univ. as developer; <br> Majoring in SW&media👨‍💻, DisasterManagement👷‍; </span>
 
 <br>
 
