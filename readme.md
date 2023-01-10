@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=&gt;ALSDNWORKS&animation=fadeIn&fontColor=A653F5  )
 
-## <span style="color:#8F8CF2">I'm GIS engineer, Python developer 🛠; <br> I'm working as undergraduate researcher in Kangwon Univ. as developer; <br> Majoring in SW&media👨‍💻, DisasterManagement👷‍; </span>
+## <span style="color:#8F8CF2">I'm GIS engineer, Python developer 🛠; <br> 👷‍Master's Degree Program Progression in AI for Climate & Disaster Management; <br> 👨‍💻Bachelor of SW&amp;media; </span>
 
 <br>
 
