@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=&gt;ALSDNWORKS&animation=fadeIn&fontColor=A653F5  )
 
-## <span style="color:#8F8CF2">I'm GIS engineer, Python developer 🛠; <br> 👷‍Master's Degree in AI for Climate & Disaster Management; <br> 👨‍💻Bachelor of SW&amp;media; </span>
+## <span style="color:#8F8CF2">I'm GIS engineer, Python developer of INAVI Systems 🛠; <br> 👷‍Master's Degree in AI for Climate & Disaster Management; <br> 👨‍💻Bachelor of SW&amp;media; </span>
 
 <br>
 
